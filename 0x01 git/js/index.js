@@ -1,2 +1,0 @@
-Empty too
-index.js
