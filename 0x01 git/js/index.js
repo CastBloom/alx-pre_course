@@ -1,1 +1,2 @@
 Empty too
+index.js
